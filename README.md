@@ -1,11 +1,21 @@
-<div align="center">
+# 📱 SIKAKI - 지역 커뮤니티 & 중고장터
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+토스(Toss) 스타일의 깔끔한 UI를 가진 모바일 최적화 지역 기반 커뮤니티 및 중고장터 웹 애플리케이션입니다.
 
-  <h1>Built with AI Studio</h2>
+## ✨ 주요 기능
+- **중고장터**: 모든 기기에서 2열 그리드 레이아웃 고정 및 카테고리 필터링.
+- **커뮤니티**: 자유게시판, 질문, 익명게시판 등 다양한 소통 공간.
+- **다국어 지원**: 한국어(KO), 영어(EN), 태국어(TH) 완벽 대응.
+- **네이티브 브릿지**: Flutter 또는 React Native 웹뷰와의 연동을 위한 브릿지 함수 내장.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ 기술 스택
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **Icons**: Lucide React
+- **Design System**: Toss-style UI/UX
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🚀 시작하기
+1. 프로젝트 파일을 다운로드합니다.
+2. 로컬 환경에서 `index.html`을 열거나, 개발 서버를 실행합니다.
 
-</div>
+## 📄 배포 가이드
+자세한 배포 방법 및 트러블슈팅은 `DEPLOY_GUIDE.md`를 참고하세요.

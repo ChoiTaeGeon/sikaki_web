@@ -1,0 +1,7 @@
+{
+  "name": "SIKAKI - Local Community & Market",
+  "description": "A high-performance, Toss-styled local community and used goods marketplace optimized for mobile web and native bridge integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
